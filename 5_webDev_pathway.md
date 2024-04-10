@@ -26,7 +26,7 @@ The project is organized as follows:
 
 - **Weather Forecast:** Using the third-party weather api the weather forecast page allows users to search for their weather forecast and view future forecasts.
 
-- **Contact Me:** The contact-me page allows users to fill in a form and submit it. The information from that form will be stored in a SQL Database.
+- **Contact Me:** The contact-me page allows users to fill in a form and submit it. The information from that form will be stored using an external form.
 
 ## Features Utilized for the project
 
