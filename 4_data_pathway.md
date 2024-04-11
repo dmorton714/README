@@ -15,7 +15,7 @@ The dataset used in this project contains information about sales, including det
 
 The project is organized as follows:
 
-- **Data Exploration:** Jupyter notebooks or scripts to exploring the dataset.
+- **Data Exploration:** Jupyter notebooks or scripts to explore the dataset.
 
 - **Analysis:** Using Python with the  Pandas package to clean the data.
 
@@ -46,7 +46,7 @@ To run this project, follow these steps:
 
 List any dependencies or libraries used in the project.
 
-###  Virutal Environment Instructions
+###  Virtual Environment Instructions
 ---
 1. After you have cloned the repo to your machine, navigate to the project 
 folder in GitBash/Terminal.
