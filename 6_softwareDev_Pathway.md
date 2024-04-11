@@ -15,9 +15,9 @@ To run this project, follow these steps:
 1. Clone the repository: `git clone https://github.com/your-username/your-project.git`
 1. Update packages
 1. Set the following configurations
-     a. `DatabaseConnectionString` = {server name}/{database name}
-     a. `ApiBaseUrl` = {api_url}/api/root
-     a. `SomeOtherConfig` = 42
+     * `DatabaseConnectionString` = {server name}/{database name}
+     * `ApiBaseUrl` = {api_url}/api/root
+     * `SomeOtherConfig` = 42
 1. Setup database by running such-and-such on the command line.
 1. Run the script located (here) to seed the data in the database
 
