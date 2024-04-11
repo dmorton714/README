@@ -13,8 +13,22 @@ All data for the system including inventory, part types, service history, and ve
 To run this project, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/your-username/your-project.git`
-2. Install the necessary dependencies: `pip install -r requirements.txt`
+1. Update packages
+1. Set the following configurations
+     a. `DatabaseConnectionString` = {server name}/{database name}
+     a. `ApiBaseUrl` = {api_url}/api/root
+     a. `SomeOtherConfig` = 42
+1. Setup database by running such-and-such on the command line.
+1. Run the script located (here) to seed the data in the database
+
+## Admin Setup
+1. Register a new user as the admin
+1. Create the home location and set the address
+1. Create a user in the `ShopManager` role
+1. Sign in as the Shop Manager and verify you can see the inventory list under the "Parts Inventory" menu
+   
 
 ## Dependencies
 
-List any dependencies or libraries used in the project.
+1. NodaTime - Nuget package for handling time zones
+1. AutoPartsDataSolutions API - Catalog of manufacturers and auto parts
